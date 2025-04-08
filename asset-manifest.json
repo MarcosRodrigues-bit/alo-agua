@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/alo-agua/static/css/main.64caeae6.chunk.css",
+    "main.js": "/alo-agua/static/js/main.d5f395fa.chunk.js",
+    "main.js.map": "/alo-agua/static/js/main.d5f395fa.chunk.js.map",
+    "runtime-main.js": "/alo-agua/static/js/runtime-main.26eaded1.js",
+    "runtime-main.js.map": "/alo-agua/static/js/runtime-main.26eaded1.js.map",
+    "static/js/2.c7099130.chunk.js": "/alo-agua/static/js/2.c7099130.chunk.js",
+    "static/js/2.c7099130.chunk.js.map": "/alo-agua/static/js/2.c7099130.chunk.js.map",
+    "index.html": "/alo-agua/index.html",
+    "precache-manifest.9e7fb7d53531f84f5606fd26f234f88c.js": "/alo-agua/precache-manifest.9e7fb7d53531f84f5606fd26f234f88c.js",
+    "service-worker.js": "/alo-agua/service-worker.js",
+    "static/css/main.64caeae6.chunk.css.map": "/alo-agua/static/css/main.64caeae6.chunk.css.map",
+    "static/js/2.c7099130.chunk.js.LICENSE.txt": "/alo-agua/static/js/2.c7099130.chunk.js.LICENSE.txt",
+    "static/media/aloagua.png": "/alo-agua/static/media/aloagua.99c380a0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.26eaded1.js",
+    "static/js/2.c7099130.chunk.js",
+    "static/css/main.64caeae6.chunk.css",
+    "static/js/main.d5f395fa.chunk.js"
+  ]
+}
