@@ -1,0 +1,74 @@
+body {
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f0f4f8;
+    color: #333;
+  }
+  
+  .container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: center;
+    background: #fff;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  }
+  
+  .logo {
+    width: 180px;
+    margin-bottom: 1rem;
+  }
+  
+  h1 {
+    font-size: 2rem;
+    margin-bottom: 1.5rem;
+    color: #0077b6;
+  }
+  
+  h2 {
+    margin-top: 2rem;
+    color: #023e8a;
+    font-size: 1.3rem;
+  }
+  
+  ul.produtos {
+    list-style: none;
+    padding: 0;
+    margin: 1rem 0;
+  }
+  
+  ul.produtos li {
+    padding: 0.5rem 0;
+    font-size: 1.1rem;
+  }
+  
+  p {
+    margin: 0.3rem 0;
+  }
+  
+  iframe {
+    margin-top: 1rem;
+    border-radius: 10px;
+  }
+  
+  .botao-whatsapp {
+    display: inline-block;
+    margin-top: 2rem;
+    padding: 0.8rem 1.5rem;
+    background-color: #25D366;
+    color: white;
+    font-size: 1.1rem;
+    font-weight: bold;
+    border: none;
+    border-radius: 30px;
+    text-decoration: none;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+    transition: background-color 0.3s ease, transform 0.2s ease;
+  }
+  
+  .botao-whatsapp:hover {
+    background-color: #1ebe5d;
+    transform: scale(1.05);
+  }
+  
