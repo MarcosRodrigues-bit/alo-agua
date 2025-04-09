@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/alo-agua/precache-manifest.9e7fb7d53531f84f5606fd26f234f88c.js"
+  "/alo-agua/precache-manifest.f92b8606ca45c3d713a328bf3d6c648a.js"
 );
 
 self.addEventListener('message', (event) => {
